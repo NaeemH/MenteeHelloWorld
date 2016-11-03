@@ -1,6 +1,6 @@
 # MenteeHelloWorld
 
-Created by Jennifer Sultana, Nemo's mentee on 11/2/16
+Created by Jennifer, Nemo's mentee on 11/2/16
 
 Her first iOS project
 
